@@ -1,0 +1,11 @@
+.btn-mensaje{
+    margin: 2rem;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.4rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    text-align: justify;
+}

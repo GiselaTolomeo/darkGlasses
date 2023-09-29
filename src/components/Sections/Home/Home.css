@@ -1,0 +1,21 @@
+
+.img-home{
+    width: 70%;
+    height: auto;
+}
+
+.sec-home{
+    width: 30%;
+    background-color: rgb(6, 126, 128);
+    color:white;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 2rem;
+    font-family: 'Rubik Dirt';
+    font-size: 5.9rem;
+}
+
+.container-home{
+    display: flex;
+    flex-direction: row;
+}

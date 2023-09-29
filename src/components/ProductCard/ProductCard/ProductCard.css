@@ -1,0 +1,8 @@
+.product-card{
+    border-radius: 10px;
+    width: 25rem;
+    height: auto;
+    margin: 3rem;
+    background-color: grey;
+    color: white;
+}

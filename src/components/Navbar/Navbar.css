@@ -1,0 +1,21 @@
+.navbar-brand{
+    color: rgb(35, 93, 93);
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 1.5rem;
+}
+
+.navbar{
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+.div-color{
+    background-color: rgb(22, 136, 136);
+    height: 1.6rem;
+    width: 100%;
+}
